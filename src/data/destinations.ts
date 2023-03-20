@@ -46,6 +46,7 @@ export const destinations = [
         monuments: [
             { name: "Coliseo Romano", picture: "https://images.unsplash.com/photo-1588614959060-4d144f28b207?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1686&q=80", viewed: true },
             { name: "Fontana Di Trevi", picture: "https://images.unsplash.com/photo-1610655769933-177d3adb53eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Rm9udGFuYSUyMGRpJTIwdHJldml8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60", viewed: false },
+            { name: "Monumento Victor Emmanuel II", picture: "https://images.unsplash.com/photo-1651608239026-b6942cbb1f46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80", viewed: false },
         ]
     },
     {
