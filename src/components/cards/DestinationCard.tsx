@@ -1,4 +1,4 @@
-import { Avatar, AvatarGroup, Button, Card, CardBody, CardFooter, Heading, Image, Stack, Text } from "@chakra-ui/react";
+import { Avatar, AvatarGroup, Card, CardBody, CardFooter, Heading, Image, Stack } from "@chakra-ui/react";
 import Link from "next/link";
 
 
